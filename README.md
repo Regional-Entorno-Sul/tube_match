@@ -19,3 +19,7 @@ Gere no SINAN NET os arquivos de exportação dos agravos de "AIDS adulto" e "Tu
 
 ![x](/pictures/tube_match_pic3.jpg)  
 
+Os arquivos gerados estarão dentro da subpasta 
+
+![x](/pictures/tube_match_pic4.jpg)  
+
