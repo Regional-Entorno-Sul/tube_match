@@ -9,3 +9,4 @@ Faça o download do arquivo "tube_match.zip". Use sempre a versão mais atualiza
 
 Descompacte o arquivo "tube_match.zip" usando o utilitário de descompactação de sua preferência.  
 
+![x](/pictures/release.jpg)
