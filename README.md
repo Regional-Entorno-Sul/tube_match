@@ -16,3 +16,6 @@ A pasta resultante da descompactação deverá ficar no disco local C ou unidade
 ![x](/pictures/tube_match_pic2.jpg)  
 
 Gere no SINAN NET os arquivos de exportação dos agravos de "AIDS adulto" e "Tuberculose" no módulo Ferramentas, item "Exportação (DBF)". Clique em "Exportar dados de identificação do paciente". Recomendamos que gere cada um desses arquivos por vez, para Tuberculose, escolha uma data inicial e final nos campos "Período" e para "AIDS adulto", deixe os campos "Período" em branco, assim o "tube_match" irá procurar os registros de casos de AIDS em toda a base de dados disponível, independente do ano em que foi notificado.  
+
+![x](/pictures/tube_match_pic3.jpg)  
+
