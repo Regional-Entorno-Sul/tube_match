@@ -23,3 +23,7 @@ Os arquivos gerados estarão dentro da subpasta "BaseDBF" na pasta "SinanNet". C
 
 ![x](/pictures/tube_match_pic4.jpg)  
 
+Uma vez copiados, os arquivos devem ser colados na subpasta "base", dentro da estrutura de subpastas do "tube_match".  
+
+![x](/pictures/tube_match_pic5.jpg)  
+
