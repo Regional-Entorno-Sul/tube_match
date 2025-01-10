@@ -35,7 +35,10 @@ Aí é só aguardar o final do processamento, se o "tube_match.exe" encontrar al
 
 ![x](/pictures/tube_match_pic7.jpg)  
 
+
 ![x](/pictures/tube_match_pic8.jpg)  
+
+
 
 
 
