@@ -5,12 +5,14 @@ Para funcionar, basta que o usuário coloque os arquivos de exportação DBF de 
 
 ## Como usar?  
 
-Faça o download do arquivo "tube_match.zip". Use sempre a versão mais atualizada que está disponível na seção "Releases".  
+Faça o download do arquivo "tube_match.zip". Use sempre a versão mais atualizada que está disponível na seção "Releases";  
 
-Descompacte o arquivo "tube_match.zip" usando o utilitário de descompactação de sua preferência.  
+Descompacte o arquivo "tube_match.zip" usando o utilitário de descompactação de sua preferência;  
 
 ![x](/pictures/tube_match_pic1.jpg)  
 
-A pasta resultante da descompactação deverá ficar no disco local C ou unidade local C;
+A pasta resultante da descompactação deverá ficar no disco local C ou unidade local C;  
+
+
 
 
