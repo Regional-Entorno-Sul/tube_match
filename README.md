@@ -28,3 +28,6 @@ Uma vez copiados, os arquivos devem ser colados na subpasta "base", dentro da es
 ![x](/pictures/tube_match_pic5.jpg)  
 
 Em seguida, rode o arquivo "tube_match.exe" que está no subdiretório "bin".  
+
+![x](/pictures/tube_match_pic6.jpg)  
+
