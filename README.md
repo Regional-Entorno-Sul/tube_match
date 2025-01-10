@@ -31,3 +31,12 @@ Em seguida, rode o arquivo "tube_match.exe" que está no subdiretório "bin".
 
 ![x](/pictures/tube_match_pic6.jpg)  
 
+Aí é só aguardar o final do processamento, se o "tube_match.exe" encontrar alguma notificação de Tuberculose de paciente positivo para AIDS, que não esteja registrado nos casos de AIDS do SINAN NET, os dados do paciente estarão dispoíveis no arquivo "tube_aids.dbf" na subpasta "out" dentro da estrtura de diretórios do "tube_match".
+
+
+
+
+
+
+
+
