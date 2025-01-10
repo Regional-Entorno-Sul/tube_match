@@ -7,4 +7,5 @@ Para funcionar, basta que o usuário coloque os arquivos de exportação DBF de 
 
 Faça o download do arquivo "tube_match.zip". Use sempre a versão mais atualizada que está disponível na seção "Releases".  
 
-Descompacte o arquivo "tube_match.zip" 
+Descompacte o arquivo "tube_match.zip" usando o utilitário de descompactação de sua preferência.  
+
