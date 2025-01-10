@@ -19,7 +19,7 @@ Gere no SINAN NET os arquivos de exportação dos agravos de "AIDS adulto" e "Tu
 
 ![x](/pictures/tube_match_pic3.jpg)  
 
-Os arquivos gerados estarão dentro da subpasta "BaseDBF" na pasta "SinanNet". Copie os arquivos "tubenet.dbf" e "aidsanet.dbf".
+Os arquivos gerados estarão dentro da subpasta "BaseDBF" na pasta "SinanNet". Copie os arquivos "tubenet.dbf" e "aidsanet.dbf". Dependendo de como o Windows Explorer está configurado, esses dois arquivos também podem aparecer como "tubenet" e "aidsanet" sem as extensões ".dbf" junto. Se isso acontecer, não tem problema, pode copiá-los da mesma maneira.
 
 ![x](/pictures/tube_match_pic4.jpg)  
 
